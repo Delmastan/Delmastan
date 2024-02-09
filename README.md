@@ -1,5 +1,5 @@
-<h1 color="black" align="center">Bonjour</h1>
 <div id="header" align="center">
+<h1>Bonjour</h1>
   <img src="https://media.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
